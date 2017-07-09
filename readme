@@ -1,0 +1,5 @@
+selezionato un anno 
+creare un grafo con le mostre come vertici 
+e come archi abbiamo degli archi pesati non diretti che collegano le mostre con opere in comune
+dove il peso è rappresentato dal numero di opere in comune
+stampare le mostre con il numero di mostre con il quale condividono opere, in ordine decrescente.
